@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "nev": "Gipsz Jakab",
+      "osztaly": "12.D",
+      "id": "qS_Ox1gKJpY"
+    },
+    {
+      "nev": "Kovács Anna",
+      "osztaly": "12.A",
+      "id": "klQTKIJRj9A"
+    },
+    {
+      "nev": "Nagy Bence",
+      "osztaly": "12.B",
+      "id": "JD8WXWKYZpE"
+    },
+    {
+      "nev": "Tóth Eszter",
+      "osztaly": "12.C",
+      "id": "LijckhYhNr0"
+    },
+    {
+      "nev": "Szabó Máté",
+      "osztaly": "12.D",
+      "id": "eKX9LAkwO6E"
+    },
+    {
+      "nev": "Horváth Lilla",
+      "osztaly": "13.A",
+      "id": "ChkiRQkfACY"
+    },
+    {
+      "nev": "Kovács Kitti",
+      "osztaly": "13.D",
+      "id": "pn-cFGmir5Y"
+    },
+    {
+      "nev": "asd",
+      "osztaly": "asd",
+      "id": "ZqhaGNlMdK4"
+    },
+    {
+      "nev": "",
+      "osztaly": "",
+      "id": "zbK9wPqoZcY"
+    },
+    {
+      "nev": "asd",
+      "osztaly": "asd",
+      "id": "vGm6b0MgN04"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
